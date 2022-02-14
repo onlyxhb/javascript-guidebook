@@ -1,6 +1,6 @@
 const config = {
   mode: 'site',
-  title: 'JavaScript Guidebook',
+  title: 'JS知识图谱',
   description: 'JavaScript 完全知识体系',
   base: '/javascript-guidebook/',
   publicPath: '/javascript-guidebook/',
@@ -12,7 +12,7 @@ const config = {
     null,
     {
       title: 'Github',
-      path: 'https://github.com/tsejx/javascript-guidebook',
+      path: 'https://github.com/onlyxhb/javascript-guidebook',
     },
   ],
   extraBabelPlugins: [

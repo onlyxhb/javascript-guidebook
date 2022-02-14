@@ -8,24 +8,24 @@
   <br />
 
   <p align="center">
-    <a><img src="https://img.shields.io/github/last-commit/tsejx/javascript-guidebook.svg"/></a>
+    <a><img src="https://img.shields.io/github/last-commit/onlyxhb/javascript-guidebook.svg"/></a>
     <a><img src="https://img.shields.io/badge/code_style-standard-brightgreen.svg"/></a>
-    <a><img src="https://img.shields.io/github/issues/tsejx/javascript-guidebook.svg"/></a>
-    <a><img src="https://img.shields.io/github/forks/tsejx/javascript-guidebook.svg"/></a>
-    <a><img src="https://img.shields.io/github/stars/tsejx/javascript-guidebook.svg"/></a>
+    <a><img src="https://img.shields.io/github/issues/onlyxhb/javascript-guidebook.svg"/></a>
+    <a><img src="https://img.shields.io/github/forks/onlyxhb/javascript-guidebook.svg"/></a>
+    <a><img src="https://img.shields.io/github/stars/onlyxhb/javascript-guidebook.svg"/></a>
     <a><img src="https://img.shields.io/maintenance/yes/2020.svg"/></a>
   </p>
 
-  <h1>JavaScript Guidebook</h1>
-  <p>在 <a href="https://tsejx.github.io/javascript-guidebook/">这里</a> 阅读体验更佳</p>
+  <h1>JS知识图谱</h1>
+  <p>在 <a href="https://onlyxhb.github.io/javascript-guidebook/">这里</a> 阅读体验更佳</p>
   <p>整理自各大技术社区和权威书籍的前端技术图谱</p>
   <p></p>
   <p>
     章节内容来源注释于具体页面底部，如错漏欢迎提
-    <a href="https://github.com/tsejx/javascript-guidebook/issues">issue</a> 斧正
+    <a href="https://github.com/onlyxhb/javascript-guidebook/issues">issue</a> 斧正
   </p>
   <p>
-    更多优质内容整理可查阅 <a href="https://github.com/tsejx/javascript-guidebook/wiki">wiki</a>
+    更多优质内容整理可查阅 <a href="https://github.com/onlyxhb/javascript-guidebook/wiki">wiki</a>
   </p>
 </div>
 

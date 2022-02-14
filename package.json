@@ -1,6 +1,6 @@
 {
   "name": "javascript-guidebook",
-  "author": "tsejx",
+  "author": "onlyxhb",
   "version": "1.0.0",
   "description": "A guidebook for the convenience of the front-end developers",
   "scripts": {
@@ -19,10 +19,10 @@
     "prismjs": "^1.21.0",
     "typescript": "^4.2.4"
   },
-  "homepage": "https://github.com/tsejx/javascript-guidebook#readme",
+  "homepage": "https://github.com/onlyxhb/javascript-guidebook#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tsejx/javascript-guidebook.git"
+    "url": "git+https://github.com/onlyxhb/javascript-guidebook.git"
   },
   "license": "MIT"
 }

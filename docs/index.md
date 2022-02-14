@@ -1,8 +1,8 @@
 ---
-title: JavaScript Guidebook - 📚 JavaScript 知识图谱：ECMAScript、DOM、BOM、HTML5、计算机网络
+title: JS知识图谱 - 📚 JavaScript 知识图谱：ECMAScript、DOM、BOM、HTML5、计算机网络
 order: 10
 hero:
-  title: JavaScript Guidebook
+  title: JS知识图谱
   desc: 📚 JavaScript 知识图谱：ECMAScript、DOM、BOM、HTML5、计算机网络
   actions:
     - text: 立即开始
@@ -17,5 +17,5 @@ features:
   - icon: https://gw.alipayobjects.com/zos/bmw-prod/d1ee0c6f-5aed-4a45-a507-339a4bfe076c/k7bjsocq_w144_h144.png
     title: 开发指南
     desc: 体系化整理，随时查阅具体技术细节，方便前端开发者日常开发
-footer: Open-source MIT Licensed | Copyright © 2019-present<br />Powered by tsejx
+footer: Open-source MIT Licensed | Copyright © 2019-present<br />Powered by onlyxhb
 ---

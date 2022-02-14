@@ -95,4 +95,4 @@ order: 1
   - [合并](/browser-object-model/browser-working-principle/composite)
   - [浏览器事件处理](/browser-object-model/browser-working-principle/browser-event)
 
-> ⚠️ 图形学领域的 SVG、Canvas、WebGL 集成于 [visualization-guidebook](https://tsejx.github.io/visualization-guidebook)
+> ⚠️ 图形学领域的 SVG、Canvas、WebGL 集成于 [visualization-guidebook](https://onlyxhb.github.io/visualization-guidebook)
