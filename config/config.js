@@ -15,6 +15,7 @@ const config = {
       path: 'https://github.com/onlyxhb/javascript-guidebook',
     },
   ],
+  styles: [`.markdown a.beian { color: #b0b1ba; }`, `.markdown a.beian svg { display: none; }`],
   extraBabelPlugins: [
     [
       'import',
