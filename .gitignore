@@ -8,3 +8,9 @@ yarn.lock
 .temp/*
 todo/
 dist/
+
+# umi
+.umi
+.umi-production
+.umi-test
+.env.local

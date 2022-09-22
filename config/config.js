@@ -5,6 +5,7 @@ const config = {
   base: '/javascript-guidebook/',
   publicPath: '/javascript-guidebook/',
   favicon: './favicon.ico',
+  outputPath: 'dist',
   logo: 'http://img.mrsingsing.com/javascript-guidebook-favicon.png',
   hash: true,
   exportStatic: {},
